@@ -1,10 +1,11 @@
 <div style="background-color: #add8e6; padding: 50px; text-align: center;">
 
-# Akooda+Tulip = ❤️
+<p align="center"># Akooda+Tulip = ❤️</p>
 
-## Thank you for your support.
+<p align="center">## Thank you for your support.</p>
 
 <iframe width="560" height="315"
+style="display: block; margin: 0 auto;"
 src="https://www.youtube.com/embed/GhEYkvbFY4o?autoplay=1"
 title="YouTube video player"
 frameborder="0"
@@ -12,7 +13,7 @@ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pic
 allowfullscreen>
 </iframe>
 
-Visit [tulip.co](https://tulip.co) to learn more about AI for Frontline Operations.
+<p align="center">Visit [tulip.co](https://tulip.co) to learn more about AI for Frontline Operations.</p>
 
 ---
 
