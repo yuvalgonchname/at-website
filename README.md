@@ -1,6 +1,6 @@
 <div style="background-color: #add8e6; padding: 50px; text-align: center;">
-
-# Thank you
+<div style="text-align: center;">
+# Akooda+Tulip = ❤️
 
 ## Thank you for your support.
 
@@ -12,10 +12,9 @@ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pic
 allowfullscreen>
 </iframe>
 
-Akooda+Tulip = ❤️
-
 Visit [tulip.co](https://tulip.co) to learn more about AI for Frontline Operations.
 
 ---
 
 **Contact:** [y@akooda.co](mailto:y@akooda.co)
+</div>
