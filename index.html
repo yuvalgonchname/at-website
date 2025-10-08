@@ -61,7 +61,23 @@
             allowfullscreen>
         </iframe>
         
-        <h5>Visit <a href="https://tulip.co" target="_blank">tulip.co</a> to learn more about AI for Frontline Operations.</h5>
+  <div class="countdown" id="timer">30</div>
+  <div class="message">You will be redirected to tulip.co soon...</div>
+
+  <script>
+    let timeLeft = 30;
+    const timerEl = document.getElementById('timer');
+
+    const countdown = setInterval(() => {
+      timeLeft--;
+      timerEl.textContent = timeLeft;
+
+      if (timeLeft <= 0) {
+        clearInterval(countdown);
+        window.location.href = "https://www.google.com";
+      }
+    }, 1000);
+  </script>
         <h5>Contact: <a href="mailto:info@akooda.co">📧</a></h5>
     </div>
 </body>
