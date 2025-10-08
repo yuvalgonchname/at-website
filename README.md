@@ -1,3 +1,5 @@
+<div style="background-color: #add8e6; padding: 50px; text-align: center;">
+
 # Thank you
 
 ## Thank you for your support.
