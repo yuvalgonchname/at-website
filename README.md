@@ -1,6 +1,6 @@
-# at-website
-at website
-### My Favorite Video
+# Thank you
+
+## Thank you for your support.
 
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/GhEYkvbFY4o?autoplay=1"
@@ -10,3 +10,10 @@ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pic
 allowfullscreen>
 </iframe>
 
+Akooda+Tulip = ❤️
+
+Visit [tulip.co](https://tulip.co) to learn more about AI for Frontline Operations.
+
+---
+
+**Contact:** [y@akooda.co](mailto:y@akooda.co)
